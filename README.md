@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### npm install axios
+This will we used to fetch the data from the  Api.
+
 ### `npm start`
 
 Runs the app in the development mode.\
